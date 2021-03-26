@@ -1,0 +1,13 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+button{
+  width:120px;
+  height:40px;
+  border:2px #9999FF dashed;
+  color:#0000AD;
+}
